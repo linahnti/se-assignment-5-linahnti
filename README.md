@@ -271,7 +271,7 @@ Click on "Open Keyboard Shortcuts (JSON)" to open the keybindings.json file.
 Here you can add or modify keybindings as per your preference.
 
 9. Debugging in VS Code:
-   - Outline the steps to set up and start debugging a simple program in VS Code. What are some key 
+   - Outline the steps to set up and start debugging a simple program in VS Code. What are some key debugging features available in VS Code?
 
 1. **Open Your Project**:
    Open the folder containing your project files in VS Code.
