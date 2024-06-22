@@ -52,7 +52,7 @@ Extensions:
    - Explain the main components of the VS Code user interface. Identify and describe the purpose of the Activity Bar, Side Bar, Editor Group, and Status Bar.
 
    a. Activity Bar :  Located on the far left-hand side. Lets you switch between views and gives you additional context-specific indicators, like the number of outgoing changes when Git is enabled. You can change the position of the Activity Bar.
-   ![Activity bar highlight](<screenshots/Activity bar.png>)
+   ![Activity bar](<screenshots/Activity bar.png>)
    
     Explorer: The folder icon that opens the file explorer to browse and manage your project's files and folders.
    Search: The magnifying glass icon that allows you to search across files in your project.
